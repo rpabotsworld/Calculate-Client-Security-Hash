@@ -5929,8 +5929,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Client-Security-Hash",
-      "projectName": "Client-Security-Hash",
+      "projectUniqueName": "M09_000_Client-Security-Hash",
+      "projectName": "M09_000_Client-Security-Hash",
       "projectPath": "C:\\Users\\prasa\\OneDrive\\Documents\\UiPath\\Client-Security-Hash\\.local",
       "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\prasa\\OneDrive\\Documents\\UiPath\\Client-Security-Hash\\.local"
